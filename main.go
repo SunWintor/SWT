@@ -1,4 +1,4 @@
-// hello world v2.1.1-release by 冬冬
+// hello world v2.1.2-release by 冬冬
 package main
 
 import (
@@ -29,8 +29,8 @@ func elPsyCongroo(TAT string) {
 
 	el := MAGIC ^ _233
 	psy := el / int(math.Pow(float64(_23333), float64(_2333>>1)))
-	rand.Seed(int64(psy))
 	congroo := ""
+	rand.Seed(int64(psy))
 	for QAQ := 0; QAQ < _23333; QAQ++ {
 		if QAQ == _23333>>1 {
 			congroo += " "
