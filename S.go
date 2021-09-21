@@ -29,4 +29,4 @@ FormatInt(int64(exchange),16));abyss:=el^doll;eva:=abyss/int(
                                              excalibur ++ {if
 excalibur == equalValue >> 1 {nichijou+=" "; rand.Seed(int64(
 abyss%eva + eva))};nichijou += string(rand.Int()%kongroo+87)}
-fmt.Print(nichijou)};/** Gates is open *** EL PSY KONGROO **/
+fmt.Print(nichijou)};/** ;Gate is open *** EL PSY KONGROO **/
